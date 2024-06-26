@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/wangchunxiao/8159/CoOp-guo/train.py", line 4, in <module>
+    from dassl.utils import setup_logger, set_random_seed, collect_env_info
+  File "/home/wangchunxiao/8159/CoOp-guo/dassl/utils/__init__.py", line 1, in <module>
+    from .tools import *
+  File "/home/wangchunxiao/8159/CoOp-guo/dassl/utils/tools.py", line 9, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
